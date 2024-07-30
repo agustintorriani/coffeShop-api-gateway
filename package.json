@@ -1,0 +1,13 @@
+{
+  "name": "api-coffeeShop",
+  "description": "Express Gateway Instance Bootstraped from Command Line",
+  "repository": {},
+  "license": "UNLICENSED",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-gateway": "^1.16.11",
+    "http-proxy-middleware": "^3.0.0"
+  }
+}

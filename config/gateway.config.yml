@@ -1,0 +1,29 @@
+# http:
+#   port: 4003
+
+# admin:
+#   port: 9876
+#   host: localhost
+
+# apiEndpoints:
+#   api:
+#     host: localhost
+#     paths: '/ip'
+
+# # serviceEndpoints:
+# #   usuarios:
+# #     url: 'http://localhost:4001'
+# #   productos:
+# #     url: 'http://localhost:4002'
+
+# policies:
+#   - proxy
+
+# pipelines:
+#   default:
+#     apiEndpoints:
+#       - api
+#     policies:
+#       - proxy:
+#           - action:
+#               # serviceEndpoint: usuarios
